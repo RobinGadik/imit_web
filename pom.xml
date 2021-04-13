@@ -6,7 +6,15 @@
 
     <groupId>groupId</groupId>
     <artifactId>imit_web</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>modules/02-tutorial</module>
+        <module>modules/03-boot</module>
+        <module>modules/04-common</module>
+        <module>modules/05-Thymeleaf</module>
+        <module>modules/06-FreeMarker</module>
+    </modules>
 
-    
+
 </project>
