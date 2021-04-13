@@ -14,6 +14,13 @@
         <module>modules/04-common</module>
         <module>modules/05-Thymeleaf</module>
         <module>modules/06-FreeMarker</module>
+        <module>modules/07-groovy</module>
+        <module>modules/08-Mustache</module>
+        <module>modules/09-jsp</module>
+        <module>modules/10-Titles</module>
+        <module>modules/11-logging</module>
+        <module>modules/12-Actuator</module>
+        <module>modules/13-combo</module>
     </modules>
 
 
